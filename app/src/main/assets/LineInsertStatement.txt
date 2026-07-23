@@ -1,0 +1,14 @@
+INSERT INTO Line VALUES	('METR',	'Metropolitan',	'Burgundy');
+INSERT INTO Line VALUES	('JBLE',	'Jubilee',	'Grey');
+INSERT INTO Line VALUES	('PCDL',	'Piccadilly',	'Navy');
+INSERT INTO Line VALUES	('VCTR',	'Victoria',	'Blue');
+INSERT INTO Line VALUES	('BKLO',	'Bakerloo',	'Brown');
+INSERT INTO Line VALUES	('FOOT',	'Foot',	'Indigo');
+INSERT INTO Line VALUES	('NRTN',	'Northern',	'Black');
+INSERT INTO Line VALUES	('HCTY',	'Hammersmith & City',	'Pink');
+INSERT INTO Line VALUES	('CRCL',	'Circle',	'Yellow');
+INSERT INTO Line VALUES	('DSRT',	'District',	'Green');
+INSERT INTO Line VALUES	('CTRL',	'Central',	'Red');
+INSERT INTO Line VALUES	('WLCY',	'Waterloo & City',	'Turquoise');
+INSERT INTO Line VALUES ('GATE',    'Gate', 'Emerald');
+
