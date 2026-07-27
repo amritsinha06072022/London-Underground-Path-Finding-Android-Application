@@ -99,4 +99,4 @@ On first launch, the app builds and populates the local database from the bundle
 
 ## Author
 
-Built by [amritsinha06072022](https://github.com/amritsinha06072022).
+Built by [amritsinha06072022](https://github.com/amritsinha06072022) in February 2025
